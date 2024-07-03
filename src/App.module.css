@@ -1,0 +1,19 @@
+.html {
+  background-color: #f4f4f4;
+}
+
+.container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 769px) {
+  .container {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}

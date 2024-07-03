@@ -1,0 +1,20 @@
+{
+  "products": [
+    { "id": 1, "name": "Coca Cola", "price": 1.5, "quantity": 5, "image": "https://i5.walmartimages.com/asr/47a63aff-0fab-4433-92f2-1ed09f63088b.f46c913fcfefca13727c100a0e0ef269.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF" },
+    { "id": 2, "name": "Pepsi", "price": 1.4, "quantity": 11, "image": "https://126956000.cdn6.editmysite.com/uploads/1/2/6/9/126956000/s848309795171683491_p255_i1_w2560.jpeg?width=2400&optimize=medium" },
+    { "id": 3, "name": "Water", "price": 0.9, "quantity": 14, "image": "https://devin2u.bg/media/catalog/product/cache/3bd283cfea651bfe56b563d479710f43/d/e/devin-crystal-mineralna-voda-gazirana-70700000000.jpg" },
+    { "id": 4, "name": "Orange Juice", "price": 2.1, "quantity": 15, "image": "https://cdn11.bigcommerce.com/s-zj6x66u8ej/images/stencil/1500x1500/products/249/503/MM_JTG_12z_OJ__21807.1709247889.png?c=1" },
+    { "id": 5, "name": "Apple Juice", "price": 2.1, "quantity": 15, "image": "https://libertycokedelivery.com/cdn/shop/products/12oz-MM-apple.jpg?v=1666193643" },
+    { "id": 6, "name": "Milka Oreo", "price": 3.2, "quantity": 9, "image": "https://pi.nice-cdn.com/upload/image/product/large/default/67666_430be57e.1024x1024.png" },
+    { "id": 7, "name": "Orbit Spearmint", "price": 1.4, "quantity": 1, "image": "https://www.ebag.bg/en/products/images/55818/800" },
+    { "id": 8, "name": "Bake Rolls", "price": 1.7, "quantity": 13, "image": "https://cdncloudcart.com/16398/products/images/40250/bake-rolls-7-days-spanak-70-g-image_5ea2d97876051_800x800.png?1587732600" },
+    { "id": 9, "name": "Croissant 7Days", "price": 1.9, "quantity": 15, "image": "https://cdncloudcart.com/16398/products/images/53889/kroasan-7days-kakao-60-gr-65d5f22c75ccb_1280x1280.jpeg?1708520195" },
+    { "id": 10, "name": "Protein Bar", "price": 3.9, "quantity": 15, "image": "https://cdncloudcart.com/16398/products/images/52346/proteinov-bar-born-winner-deluxe-crunchy-chocolate-brownie-31--20-g-protein-64-g-64ff03e87f9e5_1280x1280.jpeg?1694434338" },
+    { "id": 11, "name": "Flap Jack", "price": 4.1, "quantity": 14, "image": "https://cdncloudcart.com/16398/products/images/52100/flap-dzak-bw-agodov-cijzkejk-100-gr-64b644bf6bd56_1280x1280.jpeg?1689667049" },
+    { "id": 12, "name": "Protein Cookie", "price": 4.3, "quantity": 9, "image": "https://cdncloudcart.com/16398/products/images/52348/proteinova-biskvita-born-winner-deluxe-chocolate-chip-27--20-g-protein-75-g-64ff0578afa54_1920x1920.jpeg?1694434739" },
+    { "id": 13, "name": "Oreo", "price": 1.7, "quantity": 1, "image": "https://cdncloudcart.com/16398/products/images/41831/biskviti-oreo-66-g-image_5f28780d7798e_1920x1920.png?1596487727" },
+    { "id": 14, "name": "LZ Chocolate", "price": 1.7, "quantity": 10, "image": "https://cdncloudcart.com/16398/products/images/44260/sokolad-lz-aeriran-mlecen-35-gr-6454c34e4742a_1920x1920.png?1683276671" },
+    { "id": 15, "name": "KitKat", "price": 1.2, "quantity": 15, "image": "https://cdncloudcart.com/16398/products/images/44282/desert-kit-kat-forfingar-mlecen-41-5-g-image_5f4cbc4e61da0_1280x1280.jpeg?1598865113" },
+    { "id": 16, "name": "Beer Nuts", "price": 1.2, "quantity": 11, "image": "https://cdncloudcart.com/16398/products/images/43066/parti-adki-uasabi-70gr-image_5f466d8700513_1920x1920.jpeg?1598451831" }
+  ]
+}
